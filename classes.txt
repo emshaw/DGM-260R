@@ -2,3 +2,4 @@
 - survey of animation
 - intro to scripting
 - 3d modeling
+- HAVE FUN!
