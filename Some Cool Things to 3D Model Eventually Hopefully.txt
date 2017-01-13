@@ -3,3 +3,5 @@
 - me
 - a cube
 - aliens
+- a car
+- a hand
