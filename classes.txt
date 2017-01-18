@@ -3,3 +3,5 @@
 - intro to scripting
 - 3d modeling
 - HAVE FUN!
+
+Week 2, still surviving
